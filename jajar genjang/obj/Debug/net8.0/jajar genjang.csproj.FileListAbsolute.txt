@@ -1,0 +1,14 @@
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\bin\Debug\net8.0\jajar genjang.exe
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\bin\Debug\net8.0\jajar genjang.deps.json
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\bin\Debug\net8.0\jajar genjang.runtimeconfig.json
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\bin\Debug\net8.0\jajar genjang.dll
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\bin\Debug\net8.0\jajar genjang.pdb
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\obj\Debug\net8.0\jajar genjang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\obj\Debug\net8.0\jajar genjang.AssemblyInfoInputs.cache
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\obj\Debug\net8.0\jajar genjang.AssemblyInfo.cs
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\obj\Debug\net8.0\jajar genjang.csproj.CoreCompileInputs.cache
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\obj\Debug\net8.0\jajar genjang.dll
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\obj\Debug\net8.0\refint\jajar genjang.dll
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\obj\Debug\net8.0\jajar genjang.pdb
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\obj\Debug\net8.0\jajar genjang.genruntimeconfig.cache
+C:\Users\RPL-SMKN 4 BOGOR\Desktop\zuhud project\jajar genjang\obj\Debug\net8.0\ref\jajar genjang.dll

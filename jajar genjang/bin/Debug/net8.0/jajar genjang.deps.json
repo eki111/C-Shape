@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "jajar genjang/1.0.0": {
+        "runtime": {
+          "jajar genjang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jajar genjang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
